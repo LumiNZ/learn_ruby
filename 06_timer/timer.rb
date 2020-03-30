@@ -21,4 +21,5 @@ class Timer
     return temp_time.strftime("%H:%M:%S")
   end
 
+  
 end
